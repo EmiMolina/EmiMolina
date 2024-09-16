@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmiMolina
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cibsecurity
+- 🌱 I’m currently learning Cloud computing and cibsecurity 
+- 💞️ I’m looking tfor a new job
 - 📫 How to reach me emiliano.molina1999@gmail.com
 
 <!---
